@@ -1,4 +1,20 @@
 # College Chatbot Using ML Algorithm and NLP Toolkit 
+---
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Name**  : SURESH KUMAR P 
+
+**Id**: CT08HDL
+
+**Domain**: PYTHON PROGRAMMING
+
+**Batch Duration**: Dec 30th 2024 to Jan 30th, 2025 
+
+**Mentor Name** : NEELA SANTHOSH
+---
+
+
 
 The College Chatbot is a Python-based chatbot that utilizes machine learning algorithms and natural language processing (NLP) techniques to provide automated assistance to users with college-related inquiries. The chatbot aims to improve the user experience by delivering quick and accurate responses to their questions.
 
